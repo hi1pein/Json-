@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 [ваше имя]
+Copyright (c) 2025 [ФТП]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
